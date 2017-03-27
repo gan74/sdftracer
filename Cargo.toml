@@ -1,0 +1,8 @@
+[package]
+name = "sdftracer"
+version = "0.1.0"
+authors = ["Grégoire Angerand"]
+
+[dependencies]
+image = "*"
+rand = "*"
